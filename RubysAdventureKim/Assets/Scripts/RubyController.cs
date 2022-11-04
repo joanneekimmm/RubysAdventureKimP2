@@ -7,19 +7,23 @@ public class RubyController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+    
     }
 
     // Update is called once per frame
     void Update()
     {
+        //Create 2 variables to use the unity built in axes
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
-       
+        //Create our movement Vector
         Vector2 position = transform.position;
-        position.x = position.x + 0.1f; * horizontal;
-        position.y = position
+
+        //Create horizontal and vertical movement
+        position.x = position.x + 3.0f * horizontal * Time.deltaTime;
+        position.y = position.y + 3.0f * vertical * Time.deltaTime;
+
         transform.position = position;
     }
 }
