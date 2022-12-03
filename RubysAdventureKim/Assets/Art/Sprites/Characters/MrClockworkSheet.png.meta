@@ -152,400 +152,421 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MrClockworkWalkUp1
+      name: MrClockworkSheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 1023.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44d3536376ff1a8499d4d9cb0a9ea578
-      internalID: 21300000
+      spriteID: e25c26d4a8321f74e9e37084bdce61e2
+      internalID: 160049873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkUp2
+      name: MrClockworkSheet_1
       rect:
         serializedVersion: 2
         x: 256
         y: 1023.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8702c83c87862194da299cbfa4ed8671
-      internalID: 21300002
+      spriteID: 7eb75ddc5175afd4b89f1e0a529a8a2c
+      internalID: -199313508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkUp3
+      name: MrClockworkSheet_2
       rect:
         serializedVersion: 2
         x: 512
         y: 1023.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 597548bccd0bcb241831099c94dcc7c7
-      internalID: 21300004
+      spriteID: 4267323b84c473544b59cb3b9bebaeff
+      internalID: -888892991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkUp4
+      name: MrClockworkSheet_3
       rect:
         serializedVersion: 2
         x: 768
         y: 1023.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a13196e3a0e5af449e4797266edfe21
-      internalID: 21300006
+      spriteID: ee841b143c208f94db8a6851477cc412
+      internalID: -1283408504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkDown1
+      name: MrClockworkSheet_4
       rect:
         serializedVersion: 2
         x: 0
         y: 768.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cbcc90d336cce4469caa6c0e47ff90c
-      internalID: 21300008
+      spriteID: 24fbcd4c1fe75bd4ab174a8fdfdcf071
+      internalID: -695413268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkDown2
+      name: MrClockworkSheet_5
       rect:
         serializedVersion: 2
         x: 256
         y: 768.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c0642b38a651764c8dd1e54f4f518f9
-      internalID: 21300010
+      spriteID: 91474463e6a6ccf4b8cbd9e8cc20c3d7
+      internalID: 1939131800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkDown3
+      name: MrClockworkSheet_6
       rect:
         serializedVersion: 2
         x: 512
         y: 768.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46828996dfe9a81448ec4af389322474
-      internalID: 21300012
+      spriteID: a7a13b880a964aa40bae52734ea92723
+      internalID: -1252942090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkDown4
+      name: MrClockworkSheet_7
       rect:
         serializedVersion: 2
         x: 768
         y: 768.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b56d0acbdf9d1c4a89603c2bb053bef
-      internalID: 21300014
+      spriteID: 1b15d54dfe59dc047908a96de9caeeec
+      internalID: 55533767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkSides1
+      name: MrClockworkSheet_8
       rect:
         serializedVersion: 2
         x: 0
         y: 513.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 136b11be60fe5584db649686551fe96a
-      internalID: 21300016
+      spriteID: b9ff023280eae914587c14b957d5f24c
+      internalID: -1781174301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkSides2
+      name: MrClockworkSheet_9
       rect:
         serializedVersion: 2
         x: 256
         y: 513.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60a30b3fdd3fc22488daaa238f5450d3
-      internalID: 21300018
+      spriteID: 10a0bdd26c870df45a5132a0e3cbec0b
+      internalID: -991664932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkSides3
+      name: MrClockworkSheet_10
       rect:
         serializedVersion: 2
         x: 512
         y: 513.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6954e5b7ccc9bd4d990722b4403778d
-      internalID: 21300020
+      spriteID: 62385cc3832ad96439bde60db5d4f541
+      internalID: -905838286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkWalkSides4
+      name: MrClockworkSheet_11
       rect:
         serializedVersion: 2
         x: 768
         y: 513.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4103a8e8a12a0c94f9c0061314ac4686
-      internalID: 21300022
+      spriteID: 6c77dc0965af16446aab2a6bbb5484c5
+      internalID: -478174211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkIdleSides
+      name: MrClockworkSheet_12
       rect:
         serializedVersion: 2
         x: 0
         y: 258.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7dd87451f403e243a4d28df4a01b8d2
-      internalID: 21300024
+      spriteID: 80656fe3b524f4843b083749851ab3d1
+      internalID: 1327024140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkIdleDown
+      name: MrClockworkSheet_13
       rect:
         serializedVersion: 2
         x: 256
         y: 258.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6c48f3cd0159bb43ad323340d25d769
-      internalID: 21300026
+      spriteID: 91118c4eb109131418506b2ea5436838
+      internalID: 1965507265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkIdleUp
+      name: MrClockworkSheet_14
       rect:
         serializedVersion: 2
         x: 512
         y: 258.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab20a81d0f84bd644a9b2afb65e26883
-      internalID: 21300028
+      spriteID: b02b4657eb1a1244a8a8bd9a050d75fb
+      internalID: 2019026267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkFixed1
+      name: MrClockworkSheet_15
       rect:
         serializedVersion: 2
         x: 768
         y: 258.2
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7103ee228a4889b47a1ab5714b28d6cd
-      internalID: 21300030
+      spriteID: 80dde522077e8694ab20fc8155318ad1
+      internalID: 1667928527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkFixed2
+      name: MrClockworkSheet_16
       rect:
         serializedVersion: 2
         x: 0
         y: 3.199997
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35117d15a0b5a3548bd1a6730feedd73
-      internalID: 21300032
+      spriteID: 59ef61f21676e0b47b1f68d1fa167376
+      internalID: 341954932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkFixed3
+      name: MrClockworkSheet_17
       rect:
         serializedVersion: 2
         x: 256
-        y: 5
+        y: 3.199997
         width: 256
-        height: 256
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 255.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e93b4c2cd601ae4ca12ffbab0fb1b66
-      internalID: 21300034
+      spriteID: fb57acd4a89f8604ba7d5ca399899051
+      internalID: -1377200785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MrClockworkFixed4
+      name: MrClockworkSheet_18
       rect:
         serializedVersion: 2
         x: 512
         y: 3.199997
         width: 256
         height: 255.8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca85f1cd8069d8b4c92a96559b3df8fd
-      internalID: 21300036
+      spriteID: 5ec5a53f10439c841b6fdfc1c35d8899
+      internalID: -1455456927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3.199997
+        width: 256
+        height: 255.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c89d2f9749586d4a8a17a64f92b1ef6
+      internalID: -2013959322
       vertices: []
       indices: 
       edges: []
@@ -561,25 +582,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      MrClockworkWalkUp1: 21300000
-      MrClockworkWalkSides1: 21300016
-      MrClockworkIdleSides: 21300024
-      MrClockworkWalkUp2: 21300002
-      MrClockworkWalkSides2: 21300018
-      MrClockworkWalkDown3: 21300012
-      MrClockworkWalkUp3: 21300004
-      MrClockworkWalkDown1: 21300008
-      MrClockworkFixed2: 21300032
-      MrClockworkWalkUp4: 21300006
-      MrClockworkWalkDown4: 21300014
-      MrClockworkWalkSides3: 21300020
-      MrClockworkFixed1: 21300030
-      MrClockworkIdleDown: 21300026
-      MrClockworkWalkSides4: 21300022
-      MrClockworkWalkDown2: 21300010
-      MrClockworkIdleUp: 21300028
-      MrClockworkFixed4: 21300036
-      MrClockworkFixed3: 21300034
+      MrClockworkSheet_19: -2013959322
+      MrClockworkSheet_17: -1377200785
+      MrClockworkSheet_12: 1327024140
+      MrClockworkSheet_7: 55533767
+      MrClockworkSheet_9: -991664932
+      MrClockworkSheet_3: -1283408504
+      MrClockworkSheet_18: -1455456927
+      MrClockworkSheet_8: -1781174301
+      MrClockworkSheet_14: 2019026267
+      MrClockworkSheet_5: 1939131800
+      MrClockworkSheet_15: 1667928527
+      MrClockworkSheet_10: -905838286
+      MrClockworkSheet_11: -478174211
+      MrClockworkSheet_13: 1965507265
+      MrClockworkSheet_4: -695413268
+      MrClockworkSheet_1: -199313508
+      MrClockworkSheet_16: 341954932
+      MrClockworkSheet_2: -888892991
+      MrClockworkSheet_6: -1252942090
+      MrClockworkSheet_0: 160049873
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
