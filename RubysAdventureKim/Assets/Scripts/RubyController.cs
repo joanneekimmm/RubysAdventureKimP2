@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class RubyController : MonoBehaviour
 {
@@ -40,8 +39,8 @@ public class RubyController : MonoBehaviour
     void Update()
     {
         //Create 2 variables to use the unity built in axes
-        float horizontal = Input.GetAxis("Horizontal");
-        float vertical = Input.GetAxis("Vertical");
+        horizontal = Input.GetAxis("Horizontal");
+        vertical = Input.GetAxis("Vertical");
 
         Vector2 move = new Vector2(horizontal, vertical);
 
@@ -100,7 +99,7 @@ public class RubyController : MonoBehaviour
         GameObject projectileObject = Instantiate(projectilePrefab, rigidbody2d.position + Vector2.up * 0.5f, Quaternion.identity);
 
         Projectile projectile = projectileObject.GetComponent<Projectile>();
-        Projectile.Launch(lookDirection, 300);
+        projectile.Launch(lookDirection, 300);
 
         animator.SetTrigger("Launch");
     }

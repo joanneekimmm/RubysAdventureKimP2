@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8487188920329050416}
   - component: {fileID: 6007363133943665843}
   - component: {fileID: -7939074361872150501}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ruby
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -100,8 +100,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fe10e19ccbfd85478b7322ced31959e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 5
   maxHealth: 5
+  projectilePrefab: {fileID: 4638525955828148716, guid: f78caac7927e57c409f6e32d9d59536b, type: 3}
   timeInvincible: 2
   currentHealth: 0
 --- !u!50 &8487188920329050416
@@ -161,7 +162,7 @@ Animator:
   m_GameObject: {fileID: 6985530782165718732}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b77822e0485373d40b5beb92e9a5e728, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

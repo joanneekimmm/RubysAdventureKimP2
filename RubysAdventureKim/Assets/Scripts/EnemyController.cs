@@ -26,7 +26,7 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //remember ! inverse the test, so if broken is true !broken will be false and return won't be executed.
+                //remember ! inverse the test, so if broken is true !broken will be false and return won't be executed.
         if(!broken)
         {
             return;
@@ -43,7 +43,7 @@ public class EnemyController : MonoBehaviour
 
     void FixedUpdate()
     {
-        //remember ! inverse the test, so if broken is !broken will be false and return won't be executed.
+       
         if(!broken)
         {
             return;
